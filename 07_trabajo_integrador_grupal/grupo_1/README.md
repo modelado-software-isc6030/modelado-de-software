@@ -1,4 +1,18 @@
+## TRABAJO EVALUATIVO INTEGRADOR- MODELADO DE SOFTWARE
+
+### Profesora: Eliana Specogna
+
+---
+
 # 👥 Grupo 1 — Sistema Biblioteca
+
+### Integrantes:
+- Gomez José
+- Donaire Marisol
+- Maldonado Román
+- Gutierrez Agustin
+
+---
 
 # 📖 Escenario
 

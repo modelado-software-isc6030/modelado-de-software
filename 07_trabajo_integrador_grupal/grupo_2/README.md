@@ -1,4 +1,19 @@
+## TRABAJO EVALUATIVO INTEGRADOR- MODELADO DE SOFTWARE
+
+### Profesora: Eliana Specogna
+
+---
+
+
 # 👥 Grupo 2 — Sistema Gimnasio
+
+### Integrantes:
+- Gomez Fernanda
+- Figueroa Ignacio
+- Ferreyra Marcos
+- Espindola Daniel
+
+---
 
 # 📖 Escenario
 

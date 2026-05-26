@@ -1,4 +1,19 @@
+## TRABAJO EVALUATIVO INTEGRADOR- MODELADO DE SOFTWARE
+
+### Profesora: Eliana Specogna
+
+---
+
 # 👥 Grupo 3 — Sistema Hotel
+
+### Integrantes:
+
+- Calmejane Nelson
+- Oña Joel
+- Parada Luis
+- Valdiviezo Agustin
+
+---
 
 # 📖 Escenario
 

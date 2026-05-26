@@ -1,4 +1,18 @@
+## TRABAJO EVALUATIVO INTEGRADOR- MODELADO DE SOFTWARE
+
+### Profesora: Eliana Specogna
+
+---
+
 # 👥 Grupo 4 — Sistema Restaurante
+
+### Integrantes:
+- Pinto Marisol
+- Serrato Mariana
+- Rojas Florencia
+- Lazarte Malena
+
+---
 
 # 📖 Escenario
 
